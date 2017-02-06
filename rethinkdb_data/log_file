@@ -1,0 +1,29 @@
+2017-02-02T13:08:04.448494000 0.033141s notice: Recursively removing directory /Users/Stephan/ruby/react/rethinkdb_data/tmp
+2017-02-02T13:08:04.451371000 0.036024s notice: Initializing directory /Users/Stephan/ruby/react/rethinkdb_data
+2017-02-02T13:08:04.451592000 0.036236s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/Stephan/ruby/react/rethinkdb_data' did not already exist or is empty.)
+2017-02-02T13:08:04.451652000 0.036297s notice: Running rethinkdb 2.3.5 (CLANG 7.0.2 (clang-700.1.81))...
+2017-02-02T13:08:04.630664000 0.215311s notice: Running on Darwin 14.5.0 x86_64
+2017-02-02T13:08:04.630765000 0.215409s notice: Loading data from directory /Users/Stephan/ruby/react/rethinkdb_data
+2017-02-02T13:08:05.609294000 1.193938s info: Automatically using cache size of 100 MB
+2017-02-02T13:08:05.609314000 1.193957s warn: Cache size does not leave much memory for server and query overhead (available memory: 726 MB).
+2017-02-02T13:08:05.609323000 1.193967s warn: Cache size is very low and may impact performance.
+2017-02-02T13:08:05.610006000 1.194650s notice: Listening for intracluster connections on port 29015
+2017-02-02T13:08:05.612160000 1.196804s notice: Listening for client driver connections on port 28015
+2017-02-02T13:08:05.612521000 1.197165s notice: Listening for administrative HTTP connections on port 8080
+2017-02-02T13:08:05.612526000 1.197170s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-02-02T13:08:05.612534000 1.197178s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-02-02T13:08:05.612537000 1.197181s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-02-02T13:08:05.612545000 1.197189s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-02-02T13:08:05.612552000 1.197196s notice: Server ready, "localhost_aurora_city_op8" 6f37853c-5f10-4fb9-8bf2-510e2f6be32c
+2017-02-02T13:17:04.360207000 539.935350s info: Table 733af79d-e47a-43a3-9835-9bba99659823: Starting a new Raft election for term 1.
+2017-02-02T13:17:04.360580000 539.935722s info: Table 733af79d-e47a-43a3-9835-9bba99659823: Added replica on this server.
+2017-02-02T13:17:04.523195000 540.098338s info: Table 733af79d-e47a-43a3-9835-9bba99659823: This server is Raft leader for term 1. Latest log index is 0.
+2017-02-02T13:38:31.389467000 1825.071607s info: Table 9a91fd2b-12ad-4e5a-9d6f-13447f6fcf49: Starting a new Raft election for term 1.
+2017-02-02T13:38:31.389778000 1825.071917s info: Table 9a91fd2b-12ad-4e5a-9d6f-13447f6fcf49: Added replica on this server.
+2017-02-02T13:38:31.545856000 1825.227995s info: Table 9a91fd2b-12ad-4e5a-9d6f-13447f6fcf49: This server is Raft leader for term 1. Latest log index is 0.
+2017-02-02T13:38:32.967300000 1826.649403s info: Table 9a91fd2b-12ad-4e5a-9d6f-13447f6fcf49: Configuration is changing.
+2017-02-02T13:39:09.770672000 1863.452097s info: Table a9e41eb8-c7d3-4388-80f0-0f8215448812: Starting a new Raft election for term 1.
+2017-02-02T13:39:09.771197000 1863.452621s info: Table a9e41eb8-c7d3-4388-80f0-0f8215448812: Added replica on this server.
+2017-02-02T13:39:09.916095000 1863.597519s info: Table a9e41eb8-c7d3-4388-80f0-0f8215448812: This server is Raft leader for term 1. Latest log index is 0.
+2017-02-02T19:29:47.912945000 7057.103076s notice: Removing file /Users/Stephan/ruby/react/rethinkdb_data/a9e41eb8-c7d3-4388-80f0-0f8215448812
+2017-02-02T19:29:47.912961000 7057.103091s info: Table a9e41eb8-c7d3-4388-80f0-0f8215448812: Deleted the table.
